@@ -1,6 +1,6 @@
 # ItsJafer
 
-![picture of me as a baby software engineer](https://itsjafer.com/baby_jafer.jpeg)
+<img src="https://itsjafer.com/baby_jafer.jpeg" width="500">
 
 I'm a student at the University of Waterloo and Wilfrid Laurier University currently interning at Amazon as a Software Development Engineer. I'm also actively searching for a summer 2021 internship for my senior year :-)
 
