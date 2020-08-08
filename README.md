@@ -8,7 +8,7 @@
 
 
 <p>
-  <img src="https://itsjafer.com/baby_jafer.jpeg" width="500" align="right">
+  <img src="https://itsjafer.com/baby_jafer.jpeg" width="400" align="right">
   
 - 👷‍ I’m currently looking for an internship this Summer 2021 (I graduate December 2021)
 
