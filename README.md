@@ -8,9 +8,9 @@
 <p>
   <img src="https://itsjafer.com/baby_jafer.jpeg" width="400" align="right">
   
-- 👷‍ I’m currently looking for an internship this Fall 2021 or New Grad 2022; check out my <a href=https://itsjafer.com/Resume.pdf> resume</a>
+- 👷‍ I’m currently interning at Amazon. This upcoming Summer 2021 I'll be at Google; check out my <a href=https://itsjafer.com/Resume.pdf> resume</a>
 
-- 💬 Ask me about my internships, the double degree program, or anything really
+- 💬 Ask me about my internships, the double degree program, my projects, or anything else
 
 - 🚙 Come play Rocket League with me; shoot me a message if you're looking to grind to champ
 </p>
