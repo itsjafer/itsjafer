@@ -8,7 +8,7 @@
 <p>
   <img src="https://itsjafer.com/baby_jafer.jpeg" width="400" align="right">
   
-- 👷‍ I’m currently in school. This upcoming Summer 2021 I'll be at Google; check out my <a href=https://itsjafer.com/Resume.pdf> resume</a>
+- 👷‍ I’m currently in school. This upcoming Summer 2021 I'll be at Google; check out my <a href=https://itsjafer.com/Jafer_Haider_Resume.pdf> resume</a>
 
 - 💬 Ask me about my internships, the double degree program, my projects, or anything else! If you'd like to hop on a call, feel free to <a href=https://calendly.com/itsjafer/coffee-chat> schedule a time on my calendar</a>
 
