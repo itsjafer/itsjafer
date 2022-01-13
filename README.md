@@ -8,8 +8,10 @@
 <p>
   <img src="https://itsjafer.com/baby_jafer.jpeg" width="400" align="right">
   
-- 👷‍ I’m currently in school. In Summer 2021, I interned at Google; check out my <a href=https://itsjafer.com/Jafer_Haider_Resume.pdf> resume</a>
+- 👨‍💼 I'm currently working as Software Engineer at Google; check out my <a href=https://itsjafer.com/Jafer_Haider_Resume.pdf> resume</a>   
+  
+- 👷‍ I graduated in Fall 2021! 
 
-- 💬 Ask me about my internships, the double degree program, my projects, or anything else! If you'd like to hop on a call, feel free to <a href=https://calendly.com/itsjafer/coffee-chat> schedule a time on my calendar</a>
+- 💬 Ask me about my internships, the double degree program, my projects, or anything else!
   
 </p>
