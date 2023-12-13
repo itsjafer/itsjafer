@@ -8,10 +8,6 @@
 <p>
   <img src="https://itsjafer.com/baby_jafer.jpeg" width="400" align="right">
   
-- 👨‍💼 I'm currently working as Software Engineer at Google; check out my <a href=https://itsjafer.com/Jafer_Haider_Resume.pdf> resume</a>   
-  
-- 👷‍ I graduated in Fall 2021! 
-
-- 💬 Ask me about my internships, the double degree program, my projects, or anything else!
+Hi, I'm a Software Engineer at Google; check out my <a href=https://itsjafer.com> website</a> and feel free to ping me about any of my projects :)   
   
 </p>
